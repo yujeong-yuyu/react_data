@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": 1,
     "title": "Flowey",
     "content": "only 5 inches",
@@ -19,8 +19,8 @@
     "content": "Born in France",
     "price": 120000,
     "img": "https://yujeong-yuyu.github.io/react_img/cont3_cake3.png"
-  }
-   {
+  },
+  {
     "id": 4,
     "title": "Flowey",
     "content": "only 5 inches",
@@ -55,5 +55,4 @@
     "price": 120000,
     "img": "https://yujeong-yuyu.github.io/react_img/cont3_cake8.png"
   }
-  
 ]
