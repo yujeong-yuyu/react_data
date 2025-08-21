@@ -54,20 +54,6 @@
     "content": "Born in France",
     "price": 120000,
     "img": "https://yujeong-yuyu.github.io/react_img/cont3_cake8.png"
-  },
-  {
-    "id": 9,
-    "title": "Baby shoes",
-    "content": "for less than 6",
-    "price": 120000,
-    "img": "https://yujeong-yuyu.github.io/react_img/cont3_cake9.png"
-  },
-  {
-    "id": 10,
-    "title": "Red Herring",
-    "content": "Born in France",
-    "price": 120000,
-    "img": "https://yujeong-yuyu.github.io/react_img/cont3_cake10.png"
   }
   
 ]
